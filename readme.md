@@ -44,4 +44,10 @@ export PATH=$PATH:$OPA_HOME
 2. Open VS code 
 3. Open policy.rego
 4. select the whole file 
-5. Open VS code comamnd palette; search for Opa: Run Package and this will run it
+5. Open VS code comamnd palette; search for Opa: Run Package and this will run it or you can press Ctrl + shift + E. You can see teh result there 
+![image](https://user-images.githubusercontent.com/8110582/125902949-40396c9a-2edf-4e3f-a7ad-62a760fe1eba.png)
+
+
+To test OPA beyond VSCode type opa in your terminal 
+
+
